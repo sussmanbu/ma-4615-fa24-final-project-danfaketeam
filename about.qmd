@@ -30,6 +30,10 @@ Luis is a Ph.D. student in Stats and is the Teaching Fellow for the course.
 
 Dan is a professor in the Math/Stat department and is the instructor for the course.
 
+## Lee Sussman
+
+Lee is going to be 2 on Monday!
+
 <!-- Please leave in the information below -->
 
 ### About this Template.
