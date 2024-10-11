@@ -1,5 +1,5 @@
 ---
-title: "MA [46]15 Final Project"
+title: "Dan's Fake Team Project"
 listing:
   contents: "posts/*/*.qmd"
   sort: "date desc"
