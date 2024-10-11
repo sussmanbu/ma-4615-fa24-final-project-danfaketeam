@@ -11,4 +11,6 @@ page-layout: full
 title-block-banner: true
 ---
 
-# CONFLICT!!!
+![](images/data-science.png)
+
+# Final Project
